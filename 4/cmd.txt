@@ -1,1 +1,8 @@
 source flask_env/bin/activate
+
+echo "# flask-jwt-restfull" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/hamid-shahmohammadi/flask-jwt-restfull.git
+git push -u origin master
