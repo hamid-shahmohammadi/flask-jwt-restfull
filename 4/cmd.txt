@@ -6,3 +6,9 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/hamid-shahmohammadi/flask-jwt-restfull.git
 git push -u origin master
+
+git checkout -b 5-98-10-24-1155
+
+git branch 5-98-10-24-1155
+git checkout 5-98-10-24-1155
+git checkout master
